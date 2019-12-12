@@ -1,0 +1,207 @@
+/*font-family: 'PT Sans', sans-serif;*/
+
+body {
+	font-family: 'PT Sans', sans-serif;
+	color: #010101; 
+}
+
+
+
+
+/*header start*/
+header {
+	background-color: #fcdb00;
+	padding: 15px 0;
+}
+
+
+.menu ul li a{
+	font-weight: 700;
+	font-size: 22px;
+	padding: 0 40px !important; 
+	color:#010101 !important;
+	transition: .5s;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+
+/*header end*/
+
+
+/*slider start*/
+
+.slider{
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+}
+
+.s_content{
+	margin-top: 60px;
+}
+.s_content h1{
+	font-weight: 700;
+	font-size:32px;
+	margin-bottom: 20px;
+}
+.s_content h2{
+	font-weight: 400;
+	font-size:20px;
+	color:#313841;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+	margin-bottom: 15px;
+}
+.s_content p{
+    
+	font-size:16px;
+	color:#555555;
+	word-spacing: 1px;
+}
+.icons li {
+	font-size: 42px;
+    margin-right: 30px !important;
+}
+
+.s_image img{}
+
+
+
+.cid{
+	bottom: -75px;
+}
+.cid.active {
+    opacity: 1;
+}
+
+.cid li {
+  
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: #fff;
+
+}
+/*slider end*/
+
+/*feature start*/
+.feature{
+	padding-top: 80px;
+	padding-bottom: 60px;
+}
+.c_title{
+
+}
+.c_h1{
+	font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.c_p {
+	font-size: 20px;
+    letter-spacing: 1px;
+    color: #313841;
+    margin-bottom: 60px;
+} 
+
+
+.single{
+	margin-bottom: 40px;
+}
+.s_img{}
+.s_img img{}
+.s_text{}
+.s_text h2{
+	font-size: 22px;
+
+}
+.s_text p{
+	font-size: 16px;
+	color: #898989;
+	letter-spacing: 1px;
+}
+
+/*feature end*/
+
+/*contact start*/
+.contact{
+	background-color: #010101;
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+.yellow{
+	color: #fcdb00;
+}
+.ash{
+	color: #898989;
+}
+
+
+.email_form{
+	height: 50px;
+	font-size: 16px;
+	color: #898989;
+}
+.button_form{
+	height: 50px;
+	font-weight: 700;
+	font-size: 16px;
+	color: #010101;
+	height: 50px;
+	text-align: center;
+	background-color: #fcdb00;
+	text-transform: uppercase;
+	transition: .5s;
+}
+
+
+.submit:hover{
+	background-color: white;
+}
+
+	
+
+
+
+.icon{
+	text-align: center;
+	margin-top: 30px;
+}
+.icon ul li a{
+
+	font-size: 40px;
+	padding-left: 5px;
+	color:#fcdb00;
+}
+/*contact end*/
+
+
+/*footer Start*/
+footer{
+	background-color: #010101;
+
+}
+
+footer p{
+	margin: 0px;
+	color: #898989;
+
+}
+
+
+a {
+	 color: #898989;
+}
+
+a:hover{
+	color: white;
+	transition: .5s;
+}
+
+
+
+
